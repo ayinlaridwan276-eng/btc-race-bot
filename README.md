@@ -1,6 +1,8 @@
 # cbBTC Trend Bot
 
-[![make.fun bounty](https://make.fun/bounty/btc-race-24h-20261118-1444/badge.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/ayinlaridwan276-eng/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/ayinlaridwan276-eng/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
 
 A Python trading bot for make.fun's **"Race a BTC trading bot live for 24 hours"** bounty
 (`btc-race-24h-20261118-1444`). It trades Coinbase Wrapped BTC (cbBTC) against USDC on
@@ -54,3 +56,7 @@ randomness — the same bars always produce the same orders.
 - `vendor/makefun_bars.py` — the kit's protocol shim (byte-identical copy)
 - `LICENSE` — MIT
 - `.makefun/owner.json` — claim file for the entry
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t19wa4ny&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
